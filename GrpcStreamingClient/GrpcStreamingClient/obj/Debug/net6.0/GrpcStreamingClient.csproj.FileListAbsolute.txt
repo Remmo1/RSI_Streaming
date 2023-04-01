@@ -1,0 +1,15 @@
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\GrpcStreamingClient.exe
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.csproj.AssemblyReference.cache
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.AssemblyInfoInputs.cache
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.AssemblyInfo.cs
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.csproj.CoreCompileInputs.cache
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.csproj.CopyComplete
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\refint\GrpcStreamingClient.dll
+C:\Users\RPS\source\repos\RSI\lab05\GrpcStreamingClient\GrpcStreamingClient\obj\Debug\net6.0\GrpcStreamingClient.pdb

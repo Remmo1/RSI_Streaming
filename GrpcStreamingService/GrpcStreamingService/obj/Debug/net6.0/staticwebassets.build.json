@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iFTT+mdihUGhI2bycEfunIev/mF7grhX3HbkFH6P5xg=",
+  "Source": "GrpcStreamingService",
+  "BasePath": "_content/GrpcStreamingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
